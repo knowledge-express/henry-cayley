@@ -24,3 +24,6 @@ jobs:
       # run tests!
       - run: yarn test
       - run: yarn run coverage
+
+      - store_artifacts:
+          path: coverage
