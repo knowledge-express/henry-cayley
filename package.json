@@ -29,9 +29,15 @@
   },
   "homepage": "https://github.com/knowledge-express/henry-cayley#readme",
   "dependencies": {
+    "@reactivex/rxjs": "^5.4.2",
     "@types/node": "^8.0.10",
     "@types/node-fetch": "^1.6.7",
+    "@types/query-string": "^4.3.1",
     "node-fetch": "^1.7.1",
+    "query-string": "^4.3.4",
+    "readable-stream": "^2.3.3",
+    "response-to-rx": "^1.0.2",
+    "text-encoding": "^0.6.4",
     "typescript": "^2.4.1"
   },
   "devDependencies": {
